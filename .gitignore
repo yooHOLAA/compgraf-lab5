@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Папки сборки
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# Библиотеки
+glfw-3.4.bin.WIN64/
+glm/
+glad/
+
+# Временные файлы
+*.log
+*.tmp
